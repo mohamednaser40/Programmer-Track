@@ -1,0 +1,32 @@
+header, footer {
+	background: #444;
+	height: 70px;
+	text-align: center;
+}
+
+.holder {
+	width: 100%;
+	margin: 30px auto;
+	overflow: hidden;
+}
+
+.pic {
+	float: left;
+	width: 30%;
+	text-align: center;
+	background: #ffff;
+	padding: 15px;
+	box-sizing: border-box;
+	border-radius: 15px;
+}
+
+.data {
+	float: left;
+	width: 68%;
+	margin-right: 2%;
+	background: #ffff;
+	line-height:25px;
+	padding: 15px;
+	box-sizing: border-box;
+	border-radius: 15px;
+}
